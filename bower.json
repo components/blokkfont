@@ -1,6 +1,5 @@
 {
   "name": "components-blokkfont",
-  "version": "0.0.1",
   "main": "BLOKKRegular/webfonts/style.css",
   "ignore": [
     "*.html"
